@@ -46,57 +46,57 @@ let navbar_accounts = [
 	}
 ]
 
-let products = [
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 1' ,
-		title : 'TCL Smart TV',
-		oldp  : '7999 DH' ,
-		newp  : '6500 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 2',
-		title : 'Toshiba Smart TV',
-		oldp  : '9000 DH' ,
-		newp  : '8500 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 3',
-		title : 'Toshiba Full HD Smart TV',
-		oldp  : '10000 DH' ,
-		newp  : '9500 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 4',
-		title : 'Toshiba HD Smart TV',
-		oldp  : '9500 DH' ,
-		newp  : '8500 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 5',
-		title : 'Samsung TV Full HD Smart TV',
-		oldp  : '7999 DH' ,
-		newp  : '6500 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 6',
-		title : 'Panasonic 4K Smart TV',
-		oldp  : '9000 DH' ,
-		newp  : '8000 DH'
-	},
-	{
-		img   : require('../../images/pics/products/logo.png'),
-		alt   : 'product 7',
-		title : 'Toshiba HD Smart TV',
-		oldp  : '7500 DH' ,
-		newp  : '7000 DH'
-	}
-]
+// let products = [
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 1' ,
+// 		title : 'TCL Smart TV',
+// 		oldp  : '7999 DH' ,
+// 		newp  : '6500 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 2',
+// 		title : 'Toshiba Smart TV',
+// 		oldp  : '9000 DH' ,
+// 		newp  : '8500 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 3',
+// 		title : 'Toshiba Full HD Smart TV',
+// 		oldp  : '10000 DH' ,
+// 		newp  : '9500 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 4',
+// 		title : 'Toshiba HD Smart TV',
+// 		oldp  : '9500 DH' ,
+// 		newp  : '8500 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 5',
+// 		title : 'Samsung TV Full HD Smart TV',
+// 		oldp  : '7999 DH' ,
+// 		newp  : '6500 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 6',
+// 		title : 'Panasonic 4K Smart TV',
+// 		oldp  : '9000 DH' ,
+// 		newp  : '8000 DH'
+// 	},
+// 	{
+// 		img   : require('../../images/pics/products/logo.png'),
+// 		alt   : 'product 7',
+// 		title : 'Toshiba HD Smart TV',
+// 		oldp  : '7500 DH' ,
+// 		newp  : '7000 DH'
+// 	}
+// ]
 
 let top_blogs = [
 	{
