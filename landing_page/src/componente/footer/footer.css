@@ -1,0 +1,26 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap"); */
+.active {
+  padding: 5px;
+  background-color: red; }
+
+.footer .container .row .c .s .title h5 {
+  font-weight: bold; }
+.footer .container .row .c .first-side .first-sub-side .brand-name {
+  font-family: 'Rampart One', cursive;
+  font-size: 20px;
+  letter-spacing: 2px; }
+  .footer .container .row .c .first-side .first-sub-side .brand-name span {
+    color: red; }
+.footer .container .row .c .first-side .second-sub-side p a {
+  color: red;
+  font-weight: bolder;
+  text-decoration: none; }
+.footer .container .row .c .s .links a {
+  text-decoration: none; }
+.footer .container .row .c .s p .owner, .footer .container .row .c .s p .year, .footer .container .row .c .s p .fab {
+  font-weight: bolder;
+  color: red; }
+
+
+
+/*# sourceMappingURL=Footer.css.map */
