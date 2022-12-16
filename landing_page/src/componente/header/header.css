@@ -12,12 +12,12 @@ header {
       font-size: 40px;
       letter-spacing: 2px; }
       header .content .brand-name span {
-        color: red; }
+        color: #b91c25; }
     header .content .brand-description {
       font-size: 20px; }
     header .content .empty-line {
       height: 3px;
-      background-color: red;
+      background-color: #b91c25;
       border-radius: 30px; }
 
 /*# sourceMappingURL=Header.css.map */

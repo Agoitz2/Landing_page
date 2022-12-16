@@ -5,13 +5,13 @@
 
 .contact .title h2 {
   font-weight: bolder;
-  color: red; }
+  color: #b91c25; }
 .contact .row .c {
   font-weight: bolder;
   font-size: 15px; }
   .contact .row .c .left-side div p {
-    border-left: 3px solid red; }
+    border-left: 3px solid #b91c25; }
     .contact .row .c .left-side div p i {
-      color: red; }
+      color: #b91c25; }
 
 /*# sourceMappingURL=Contact.css.map */

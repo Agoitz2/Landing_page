@@ -1,14 +1,14 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap"); */
 .active {
   padding: 5px;
-  background-color: red; }
+  background-color: #b91c25; }
 
 .about .container .row .c .left-side .about-name {
   font-family: 'Rampart One', cursive;
   font-size: 40px;
   letter-spacing: 2px; }
   .about .container .row .c .left-side .about-name span {
-    color: red; }
+    color: #b91c25; }
 .about .container .row .c .left-side .about-description {
   font-weight: bolder;
   font-size: 15px; }
