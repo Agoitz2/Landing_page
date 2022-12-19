@@ -1,0 +1,11 @@
+.active {
+  padding: 5px;
+  background-color: #b91c25; }
+
+.faq .container .title h2 {
+  font-weight: bolder;
+  color: #b91c25; }
+.faq .container .accordion .accordion-item .accordion-button {
+  font-weight: bolder;
+  color: black;
+  background-color: white; }

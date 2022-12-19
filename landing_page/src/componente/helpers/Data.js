@@ -189,6 +189,6 @@ export
 	// products,
 	// top_blogs,
 	// recent_blogs,
-	// faq_items,
+	faq_items,
 	contact
 }
