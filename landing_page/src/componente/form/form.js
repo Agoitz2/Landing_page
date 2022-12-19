@@ -7,7 +7,7 @@ class Form extends Component
 	{
         return ( 
             <div> 
-                <h1>Formulario de contacto</h1> 
+                <h2>Formulario de contacto</h2> 
                 <form className='cf'> 
                 <div className='half left cf'> 
                     <input type='text' placeholder='Name' name='user_name' /> 
