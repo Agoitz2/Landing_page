@@ -6,6 +6,7 @@ import About from './componente/about/about'
 // import Products from './componente/products/products'
 // import Blogs from './componente/blogs/Blogs'
 import Faq from './componente/faq/faq'
+import Form from './componente/form/form'
 import Contact from './componente/contact/contact'
 import Footer from './componente/footer/footer'
 import Sb from './componente/sb/sb'
@@ -29,6 +30,7 @@ class App extends Component
                     {/* <Products /> */}
                     {/* <Blogs /> */}
                     <Faq />
+                    <Form />
                     <Contact />
                 </div>
 
