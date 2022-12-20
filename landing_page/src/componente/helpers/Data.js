@@ -98,41 +98,41 @@ let navbar_accounts = [
 // 	}
 // ]
 
-let top_blogs = [
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 1'
-	},
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 2'
-	},
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 3'
-	},
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 4'
-	},
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 5'
-	}
-]
+// let top_blogs = [
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 1'
+// 	},
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 2'
+// 	},
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 3'
+// 	},
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 4'
+// 	},
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 5'
+// 	}
+// ]
 
-let recent_blogs = [
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 6',
-		mar: 'mb-3'
-	},
-	{
-		img: require('../../images/pics/blogs/logo.png'),
-		alt: 'blog 7',
-		mar: ''
-	}
-]
+// let recent_blogs = [
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 6',
+// 		mar: 'mb-3'
+// 	},
+// 	{
+// 		img: require('../../images/pics/blogs/logo.png'),
+// 		alt: 'blog 7',
+// 		mar: ''
+// 	}
+// ]
 
 let faq_items = [
 	{
