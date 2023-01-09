@@ -1,4 +1,3 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap"); */
 .active {
   padding: 5px;
   background-color: #05a081; }
@@ -13,5 +12,3 @@
     border-left: 3px solid #b91c25; }
     .contact .row .c .left-side div p i {
       color: #b91c25; }
-
-/*# sourceMappingURL=Contact.css.map */
