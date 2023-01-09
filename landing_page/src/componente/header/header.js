@@ -7,6 +7,11 @@ class Header extends Component
 	{
 		return (
 			<div className = 'hero-page'>
+				<div class="header-video">
+					<div class="header-video__responsive-wrapper">
+						<video src="https://d1puoz0n3annj1.cloudfront.net/TMLBE_Loop.mp4" autoplay muted disablepictureinpicture disableremoteplayback loop playsinline></video>
+					</div>
+				</div>
 				<header className = 'header min-vh-100 position-relative'>
 					<div className = 'img-overlay position-absolute w-100 h-100'></div>
 					<div className = 'content position-absolute translate-middle top-50 start-50 text-center'>

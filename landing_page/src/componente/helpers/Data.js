@@ -32,6 +32,21 @@ let navbar_items = [
 ]
 
 let navbar_accounts = [
+	{
+		link: 'https://www.facebook.com/',
+		icon: 'fab fa-facebook'
+	},
+	{
+		link: 'https://www.instagram.com/',
+		icon: 'fab fa-instagram'
+	},
+	{
+		link: 'https://twitter.com/',
+		icon: 'fab fa-twitter'
+	},
+]
+
+let navbar_language = [
 	// {
 	// 	link: 'https://www.facebook.com/',
 	// 	icon: 'fab fa-facebook'
@@ -202,6 +217,7 @@ export
 {
 	navbar_items,
 	navbar_accounts,
+	navbar_language,
 	// products,
 	// top_blogs,
 	// recent_blogs,

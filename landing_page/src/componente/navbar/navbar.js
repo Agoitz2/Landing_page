@@ -1,8 +1,8 @@
 import React, {Component} from 'react'
 import './navbar.css'
 import {navbar_items} from '../helpers/Data'
-import {navbar_accounts} from '../helpers/Data'
-import {Dropdown, DropdownItem, DropdownMenu, DropdownToggle} from 'reactstrap';
+import {navbar_language} from '../helpers/Data'
+// import {Dropdown, DropdownItem, DropdownMenu, DropdownToggle} from 'reactstrap';
 
 
 class Navbar extends Component
@@ -22,7 +22,7 @@ class Navbar extends Component
 
 	display_navbar_accounts = _ =>
 	{
-		let accounts = navbar_accounts.map(item =>
+		let accounts = navbar_language.map(item =>
 		{
 			return (
 				// <li className="nav-item px-1 icon" key = {Math.random()}>
