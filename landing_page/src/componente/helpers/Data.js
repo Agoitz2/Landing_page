@@ -32,18 +32,34 @@ let navbar_items = [
 ]
 
 let navbar_accounts = [
+	// {
+	// 	link: 'https://www.facebook.com/',
+	// 	icon: 'fab fa-facebook'
+	// },
+	// {
+	// 	link: 'https://www.instagram.com/',
+	// 	icon: 'fab fa-instagram'
+	// },
+	// {
+	// 	link: 'https://twitter.com/',
+	// 	icon: 'fab fa-twitter'
+	// },
 	{
-		link: 'https://www.facebook.com/',
-		icon: 'fab fa-facebook'
+		name: 'ES',
+		link: 'es'
 	},
 	{
-		link: 'https://www.instagram.com/',
-		icon: 'fab fa-instagram'
+		name: 'EU',
+		link: 'eu'
 	},
 	{
-		link: 'https://twitter.com/',
-		icon: 'fab fa-twitter'
-	}
+		name: 'EN',
+		link: 'en'
+	},
+	// {
+	// 	// link: 'https://twitter.com/',
+	// 	icon: 'fab fa-weixin'
+	// }
 ]
 
 // let products = [

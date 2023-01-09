@@ -1,4 +1,3 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap"); */
 .active {
   padding: 5px;
   background-color: #b91c25; }
@@ -27,5 +26,6 @@
   transition: 0.3s; }
   .navbar .container .collapse .navbar-nav .icon a:hover {
     color: white; }
+    
 
-/*# sourceMappingURL=Navbar.css.map */
+

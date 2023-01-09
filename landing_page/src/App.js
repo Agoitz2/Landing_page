@@ -23,6 +23,7 @@ class App extends Component
                 </div>
 
                 <Navbar />
+                <i18n />
 
                 <div className = '_body'>
                     <About />

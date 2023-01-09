@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import './navbar.css'
 import {navbar_items} from '../helpers/Data'
 import {navbar_accounts} from '../helpers/Data'
+import {Dropdown, DropdownItem, DropdownMenu, DropdownToggle} from 'reactstrap';
 
 
 class Navbar extends Component
@@ -24,11 +25,36 @@ class Navbar extends Component
 		let accounts = navbar_accounts.map(item =>
 		{
 			return (
-				<li className="nav-item px-1 icon" key = {Math.random()}>
-	        		<a className="nav-link" href= {item.link} target = '_blank' rel="noreferrer">
-	        			<i className = {item.icon}></i>
-	        		</a>
-	      		</li>
+				// <li className="nav-item px-1 icon" key = {Math.random()}>
+	        	// 	<a className="nav-link" target = '_blank' rel="noreferrer">
+	        	// 		<Dropdown>
+				// 			<DropdownToggle>
+				// 				{/* <i className = {item.icon} onClick={}></i> */}
+				// 			</DropdownToggle>
+				// 		</Dropdown>
+				// 		<DropdownMenu>
+				// 			<DropdownItem>es</DropdownItem>
+				// 			<DropdownItem>eu</DropdownItem>
+				// 		</DropdownMenu>
+				<li className = "nav-item link" key = {Math.random()}>
+			        <a className = "nav-link p-md-0 py-md-1 px-md-2 me-md-2" href = {`#${item.link}`}>{item.name}</a>
+			    </li>
+						// <div class="navbar__languages">
+                              
+						// <ul class="lang-nav">
+						// 		<li class="selected">
+						// 	<a>EN</a>
+						// 	</li>
+						// 		<li>
+						// 	<a href="/nl/festival/welkom">NL</a>
+						// 	</li>
+						// 		<li>
+						// 	<a href="/fr/festival/bienvenue">FR</a>
+						// 	</li>
+						// 	</ul>
+						// </div>
+	        	// 	</a>
+	      		// </li>
 			)
 		})
 		return accounts
