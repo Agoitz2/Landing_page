@@ -16,7 +16,7 @@ class About extends Component
 								<h3 className = 'about-name'><span>B</span>uen<span>V</span>iaje</h3>
 								<p className = 'about-description text-muted'>Lorem ipsum dolor sit amet</p>
 								{/* <p className = 'about-text'>{texto}</p> */}
-								<button className = 'btn btn-outline-danger text-capitalize btn-sm shadow-lg'>read more<i className="ms-2 fas fa-chevron-right"></i></button>
+								<button className = 'btn btn-outline-primary text-capitalize btn-sm shadow-lg'>read more<i className="ms-2 fas fa-chevron-right"></i></button>
 							</div>
 						</div>
 						<div className = "c col-md-6 col-12">
